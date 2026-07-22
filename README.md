@@ -1,4 +1,4 @@
-# Kunwarbir Singh Padda
+# Hi, I'm Kunwar
 
 I build software across digital ink, backend systems, geospatial data, and applied research. I am interested in tools that make complex information easier to inspect, edit, and trust.
 
